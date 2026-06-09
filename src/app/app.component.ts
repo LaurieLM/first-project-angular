@@ -7,6 +7,5 @@ import { HeaderComponent } from './header.component';
     imports: [HeaderComponent],
     templateUrl: './app.component.html',
     changeDetection: ChangeDetectionStrategy.Eager,
-    styleUrl: './app.component.css'
 })
 export class AppComponent {}
